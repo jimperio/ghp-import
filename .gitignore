@@ -2,3 +2,5 @@ build/
 dist/
 ghp_import.egg-info/
 docs/index.html
+*.pyc
+*.pyo
